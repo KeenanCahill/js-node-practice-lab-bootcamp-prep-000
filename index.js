@@ -5,4 +5,4 @@ console.log('Name:');
 console.log(name);
 
 console.log
-console.log(height) +1;
+console.log(height + 1);
